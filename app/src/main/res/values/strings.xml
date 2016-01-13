@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CommonAdapter</string>
+  <string name="title_activity_mult_item">MultItemActivity</string>
+</resources>
